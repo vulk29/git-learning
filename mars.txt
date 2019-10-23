@@ -7,4 +7,8 @@ mars is a red planet, with water
 Mars is the second rock from the sun.
 
 
+<<<<<<< HEAD
 add smth minor
+=======
+add smth else
+>>>>>>> 7070477c50112d2eabefcfc933ae807a9bdfe60c
